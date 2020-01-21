@@ -1,0 +1,11 @@
+{
+    "name": "GirlCharacter",
+    "version": "1.0.0",
+    "title": "Gear Girl Character",
+    "author": "SleepyEngi",
+    "contact": "reddit: /u/not_dipper_pines | youtube: https://www.youtube.com/c/sleepyengi | Discord: NDP#7846",
+    "homepage": "",
+    "factorio_version": "0.17.79",
+    "dependencies": ["base >= 0.17.79"],
+    "description": "A mod by SleepyEngi! This mod replaces your character with a female version of the engineer, Gear Girl! She is fully animated and has all 3 levels of armor, along with custom colors! Thanks to HideBoar for the design I based my 3D model on"
+}
